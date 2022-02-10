@@ -72,10 +72,8 @@ Discussion:
   to execute before even working on the program, this allowed me to dive deep into the discrepancies between the two. 
   The portion of the project requiring this mental model was also extremely helpful in general since it reiterated
   the importance of planning before starting to code as well as how something as small as the decision on what storage
-  to use as major ramifications for a program. 
+  to use has major ramifications for a program. 
   
-  This project was also an excellent opportunity to revisit the other topics of which were covered in the class such as 
-  exception handling and reading in input from a file. Ensuring exceptions were 
 
 
 
